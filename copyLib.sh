@@ -35,7 +35,7 @@ NEWDIR(){
 }
 
 VALIDAR_COMANDO(){
-	[[ -n "$(which $CAMANDO)" ]] || ERROR="\e[31m+ \e[m\e/Camando não existem;\n"
+	[[ -n "$(which $CAMANDO)" ]] || ERROR="\e[31m+ \e[m\e/Camando não existe;\n"
 	[[ -n "$FILEDIR" ]] || ERROR+="\e[31m+ \e[m\e/Diretório não informado;"
 }
 
