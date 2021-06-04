@@ -1,8 +1,8 @@
 #!/bin/bash
 #
-# findLib.sh - Nosso Program em Shell - Procura e copia lib para o diretório
+# copyLib.sh -  Programa em Shell Script - Procurar e copiar lib para o diretório
 #
-# Homepage: http://utah.com.br
+# Homepage: 
 # Autor: Walter Paulo <walter0paulo@hotmail.com>
 # Mantenedor: Walter Paulo
 #
@@ -18,7 +18,7 @@
 #
 # Hitório de Versões
 #
-# Versão: 1.0
+# Versão: 1.1
 #
 # COPYRIGHT: Este programa é GPL
 
