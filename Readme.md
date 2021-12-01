@@ -1,8 +1,8 @@
 # Comando Extra GNU/Linux
 
-- [copyLib.sh](copyLib.sh)
-- [testeMemória-Oscilacao.sh](testeMemória-Oscilacao.sh)
-- [backupServar.sh](backupServer.sh)
+- [copyLib.sh](comandos/copyLib.sh)
+- [testeMemória-Oscilacao.sh](comandos/testeMemória-Oscilacao.sh)
+- [backupServar.sh](comandos/backupServer.sh)
 
 
 ## CopyLib.sh
