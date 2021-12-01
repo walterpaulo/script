@@ -1,9 +1,9 @@
 # Comando Extra GNU/Linux
 
 - [copyLib.sh](comandos/copyLib.sh)
-- [testeMemória-Oscilacao.sh](comandos/testeMemória-Oscilacao.sh)
+- [testeMemória-Oscilacao.sh](comandos/testeMemoria-Oscilacao.sh)
 - [backupServar.sh](comandos/backupServer.sh)
-
+- [testeMemoria2.sh](comandos/comandos/testeMemoria2.sh)
 
 ## CopyLib.sh
 
@@ -69,5 +69,53 @@ Uso do agendamento de tarefas, cron;
 Exemplo:
 ```
 . backupServer.sh
+
+```
+
+## Simular Consumo de Memória 2
+
+O comando testeMemória.sh tem a função para stress a memória(Física).
+
+### Recomendação:
+Simular uso de memória(físico) em sistema GNU/Linux; 
+
+
+Exemplo: ./testeMemoria-Oscilacao.sh
+
+```
+Início dos Testes 2: Memória
+*Teste 1*
+Inicio: Monday,29/11/2021 15:43:29
+2s basico
+Consumo de Memória: 2 G
+Fase 1: 2
+Fim: Monday,29/11/2021 15:46:29
+
+*Teste 2*
+Inicio: Monday,29/11/2021 15:47:29
+3s basico
+Consumo de Memória: 3 G
+Fase 1: 3
+Fim: Monday,29/11/2021 15:50:29
+
+*Teste 3*
+Inicio: Monday,29/11/2021 15:51:29
+4s basico
+Consumo de Memória: 4 G
+Fim: Monday,29/11/2021 15:59:29
+
+*Teste 4*
+Inicio: Monday,29/11/2021 16:00:29
+5s basico
+Consumo de Memória: 5 G
+Fase 1: 5
+Fim: Monday,29/11/2021 16:03:29
+
+*Teste 5*
+Inicio: Monday,29/11/2021 16:04:29
+6s basico
+Consumo de Memória: 6 G
+Fase 1: 6
+Fim: Monday,29/11/2021 16:07:29
 
 ```
