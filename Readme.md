@@ -3,7 +3,7 @@
 - [copyLib.sh](comandos/copyLib.sh)
 - [testeMemória-Oscilacao.sh](comandos/testeMemoria-Oscilacao.sh)
 - [backupServar.sh](comandos/backupServer.sh)
-- [testeMemoria2.sh](comandos/comandos/testeMemoria2.sh)
+- [testeMemoria2.sh](comandos/testeMemoria2.sh)
 
 ## CopyLib.sh
 
@@ -80,7 +80,7 @@ O comando testeMemória.sh tem a função para stress a memória(Física).
 Simular uso de memória(físico) em sistema GNU/Linux; 
 
 
-Exemplo: ./testeMemoria-Oscilacao.sh
+Exemplo: ./testeMemoria2.sh
 
 ```
 Início dos Testes 2: Memória
@@ -117,5 +117,4 @@ Inicio: Monday,29/11/2021 16:04:29
 Consumo de Memória: 6 G
 Fase 1: 6
 Fim: Monday,29/11/2021 16:07:29
-
 ```
