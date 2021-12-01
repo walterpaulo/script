@@ -1,7 +1,8 @@
 # Comando Extra GNU/Linux
 
-- ./copyLib.sh
-- ./testeMemória-Oscilacao.sh
+- [copyLib.sh](copyLib.sh)
+- [testeMemória-Oscilacao.sh](testeMemória-Oscilacao.sh)
+- [backupServar.sh](backupServer.sh)
 
 
 ## CopyLib.sh
@@ -57,4 +58,16 @@ Inicio: Sunday,28/11/2021 16:25:06
 Fim: Sunday,28/11/2021 16:28:06
 
 ```
+## Gerador de Backup
 
+O comando backupserver.sh tem a função de backup.
+
+### Recomendação:
+Uso do agendamento de tarefas, cron;
+
+
+Exemplo:
+```
+. backupServer.sh
+
+```
