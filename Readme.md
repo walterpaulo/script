@@ -30,7 +30,7 @@ $./copyLib.sh
 O comando testeMemória.sh estressa a memória(Física).
 
 ### Recomendação:
-O comando testeMomeria.sh simula consumo de memória e compatível em sistemas GNU/LINUX. O comando projeta cenários reais, pode ser usado para auxiliar testeconfigurações de itens(coletas) e triggers(ações), Zabbix Server.  O código fica disponível para uso.
+O comando testeMomeria.sh simula consumo de memória e compatível em sistemas GNU/LINUX. O comando projeta cenários reais, pode ser usado para configurar item(coleta) e trigger(ação), Zabbix Server.  O código fica disponível para uso.
 
 
 Exemplo: ./testeMemoria-Oscilacao.sh
