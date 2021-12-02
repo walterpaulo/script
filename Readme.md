@@ -10,7 +10,7 @@
 O comando copyLib.sh copiar as bibliotecas associada ao comando para um diretório desejado.
 
 ### Recomendação:
-Emular enjaulamento do usuário em sistema GNU/Linux; 
+Emular enjaulamento do usuário em sistema GNU/Linux. A técnica hardening tem  o principal objetivo de aprimorar a infraestrutura para enfrentar tentativas de ataques. 
 
 
 Exemplo: ./copyLib.sh comando diretório
@@ -25,12 +25,12 @@ $./copyLib.sh
 + Camando não existe;
 + Diretório não informado;
 ```
-## Simular Consumo de Memória-Oscilicao
+## Simular Consumo de Memória(Oscilação)
 
-O comando testeMemória.sh tem a função para stress a memória(Física).
+O comando testeMemória.sh estressa a memória(Física).
 
 ### Recomendação:
-Simular uso de memória(físico) em sistema GNU/Linux; 
+O comando testeMomeria.sh simula consumo de memória e compatível em sistemas GNU/LINUX. O comando projeta cenários reais, pode ser usado para auxiliar testeconfigurações de itens(coletas) e triggers(ações), Zabbix Server.  O código fica disponível para uso.
 
 
 Exemplo: ./testeMemoria-Oscilacao.sh
