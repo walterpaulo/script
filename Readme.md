@@ -4,6 +4,7 @@
 - [testeMemória-Oscilacao.sh](comandos/testeMemoria-Oscilacao.sh)
 - [backupServar.sh](comandos/backupServer.sh)
 - [testeMemoria2.sh](comandos/testeMemoria2.sh)
+- [installIReport.sh](comandos/installIReport.sh)
 
 ## CopyLib.sh
 
