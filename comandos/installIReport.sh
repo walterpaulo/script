@@ -24,7 +24,7 @@ wget $IREPORT
 # 2 -Java 7
 wget $JAVA7
 
-# 3 - Descompatando arquivos
+# 3 - Descompactando arquivos
 sudo tar -xvf iReport-5.6.0.tar.gz -C /opt/
 sudo tar -xvf jdk-7u80-linux-x64.tar.gz -C /opt/
 
