@@ -6,6 +6,12 @@
 - [testeMemoria2.sh](comandos/testeMemoria2.sh)
 - [installIReport.sh](comandos/installIReport.sh)
 
+## Dicas
+- [Configuração De Ambiente Java ou similar](https://gist.github.com/walterpaulo/993faf4069c910d534571a23b4e50f21)
+- [Configuração IReport](https://gist.github.com/walterpaulo/19736480b98b63c5d53d48c713ff5a6d)
+- [Pendrive Botável](https://gist.github.com/walterpaulo/d1781282629574df11684ef12c8aa42c)
+- [Orange Pi e Similar](https://gist.github.com/walterpaulo/f4bf6774cac5d62e0404e9b7ceb63e53)
+
 ## CopyLib.sh
 
 O comando copyLib.sh copiar as bibliotecas associada ao comando para um diretório desejado.
